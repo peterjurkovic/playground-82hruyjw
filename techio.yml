@@ -1,0 +1,10 @@
+title: Spring 5 Project
+plan:
+- title: Welcome
+  statement: markdowns/welcome.md
+projects:
+  java:
+    root: /java-project
+    runner:
+      name: techio/java-maven3-junit4-runner
+      version: 1.1.4-java-8
